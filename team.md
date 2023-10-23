@@ -37,7 +37,7 @@ const members = [
   },
   {
     avatar: 'https://avatars.githubusercontent.com/u/33480365?v=4',
-    name: 'Qian Chen',
+    name: 'Qian Chen -test',
     title: 'Docs Contributor',
     links: [
       { icon: 'github', link: 'https://github.com/chen-qian-dan-work' },
